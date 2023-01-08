@@ -121,5 +121,8 @@
         }
       }
     }},
-  "defaultProject": "emailclient"
+  "defaultProject": "emailclient",
+  "cli": {
+    "analytics": false
+  }
 }
